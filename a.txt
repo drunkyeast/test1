@@ -1,2 +1,0 @@
-asdfsdaf
-测试git commit --amend
