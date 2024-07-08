@@ -7,4 +7,4 @@
 # 查看完整的树状结构
 git log --graph --oneline $(git rev-parse HEAD origin/main) $(git fsck --full --no-reflogs --unreachable --lost-found | grep commit | awk '{print $3}')
 # 一些操作以及amend
-#lwh 
+~~#lwh ~~
